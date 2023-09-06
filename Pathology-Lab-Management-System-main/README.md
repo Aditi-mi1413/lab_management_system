@@ -1,10 +1,5 @@
 # PATHOLOGY LAB MANAGEMENT SYSTEM
 
-Project of CS257
-
-Group G1
-
-Members : Neha, Kanchi Pardhi, Khushi Verma, Shruti Modi (Roll Numbers - 200001051, 200001032, 200001036, 200001047 respectively)
 
 ## INTRODUCTION
 
